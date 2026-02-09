@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "バーバヤーガ (ver.sekai)",
+  "base_artist": "sekai",
+  "createdAt": "2026-02-09T07:11:26.270235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バーバヤーガ",
+      "artist": "煮ル果実",
+      "has_synced": true,
+      "path": "select/01_バーバヤーガ_煮ル果実.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バーバヤーガ - Another ver.",
+      "artist": "煮ル果実",
+      "has_synced": true,
+      "path": "select/02_バーバヤーガ_-_Another_ver._煮ル果実.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バーバヤーガ (ver.sekai)",
+      "artist": "sekai",
+      "has_synced": false,
+      "path": "select/pl_01_バーバヤーガ_(ver.sekai)_sekai.txt"
+    }
+  ]
+}
